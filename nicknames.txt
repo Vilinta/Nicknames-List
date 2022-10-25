@@ -395,7 +395,6 @@ Mother Hen
 Hairpin
 Clover Dragon
 Teeder
-Queen Bee
 Ladysmith
 Drift
 42nd Street
@@ -426,7 +425,6 @@ Roller Girl
 Loot
 Easy Street
 Alley Cat
-Solitaire
 New York Mood
 Highway
 Cream
